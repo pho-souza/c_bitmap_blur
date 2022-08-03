@@ -1,0 +1,7 @@
+Os argumentos recebidos pelo programa são:
+
+Nome do arquivo e intensidade do filtro.
+
+Exemplo
+
+./main arquivo.bmp 3
